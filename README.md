@@ -6,7 +6,7 @@
 3.	ввести «Гладиолус» и нажать «Поиск»,
 4.	убедиться, что в полученной выборке на первой странице есть ссылка на Википедию.
 
-*Java, Junit Jupiter, Selenium, PageObject, JavaDoc*
+*Java, Junit Jupiter, Selenium, PageObject*
 
 ## Задание 1.2
 
@@ -18,7 +18,7 @@
 6.	нажать по вышеуказанному заголовку,
 7.	проверить, что в блоке «Курс обмена в отделениях» курс продажи больше курса покупки для USD и для EUR.
 
-*Java, JUnit Jupiter, Selenium, PageObject, JavaDoc*
+*Java, JUnit Jupiter, Selenium, PageObject*
 
 ## Задание 1.3
 1.  запустить Chrome,
@@ -29,4 +29,4 @@
 6.	найти на странице таблицу «Преподаватели кафедры программирования»,
 7.	убедиться, что «Сергей Владимирович» идёт первым в списке, а «Сергей Адамович» последним
 
-*Java, JUnit Jupiter, Selenium, PageFactory, JavaDoc*
+*Java, JUnit Jupiter, Selenium, PageFactory*
